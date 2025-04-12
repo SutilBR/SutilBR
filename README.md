@@ -31,7 +31,7 @@
 </p>
 
 
-<details align="center">
+<details>
     <summary><h2>😎 About me</h2></summary>
 
 <h3>🧑‍💻 Who am I</h3>
