@@ -31,7 +31,7 @@
 </p>
 
 
-<details>
+<details align="center">
     <summary><h2>😎 About me</h2></summary>
 
 <h3>🧑‍💻 Who am I</h3>
@@ -133,10 +133,6 @@ Start: Jun 2024 – Expected graduation: Jun 2026</li>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-<br/>
-<br/>
-
 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
